@@ -2,7 +2,7 @@
 Data Analysis and Machine Learning
 
 
-This Notebook includes EDA, Data Visuialisation, Scaling, Training and Predicting, Evaluating Model and Ploting Metrics and Error Changes for Covid-19 Vaccination Progress Dataset collected
+This Notebook includes EDA, Data Visuialisation, Scaling, Training and Predicting, Evaluating Model and Plotting Metrics and Error Changes for Covid-19 Vaccination Progress Dataset collected
 from valid Websites.
 
 
